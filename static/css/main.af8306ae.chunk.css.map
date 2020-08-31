@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,aACE,eACF,CAEA,kBACE,gBACF","file":"main.af8306ae.chunk.css","sourcesContent":[".preview img {\n  max-width: 350px;\n}\n\ntextarea, .preview {\n  min-height: 400px;\n}"]}

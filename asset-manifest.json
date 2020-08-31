@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/markdownpreviewer/static/css/main.af8306ae.chunk.css",
+    "main.js": "/markdownpreviewer/static/js/main.d2f18f43.chunk.js",
+    "main.js.map": "/markdownpreviewer/static/js/main.d2f18f43.chunk.js.map",
+    "runtime-main.js": "/markdownpreviewer/static/js/runtime-main.deb89438.js",
+    "runtime-main.js.map": "/markdownpreviewer/static/js/runtime-main.deb89438.js.map",
+    "static/css/2.00839ece.chunk.css": "/markdownpreviewer/static/css/2.00839ece.chunk.css",
+    "static/js/2.696b3eb8.chunk.js": "/markdownpreviewer/static/js/2.696b3eb8.chunk.js",
+    "static/js/2.696b3eb8.chunk.js.map": "/markdownpreviewer/static/js/2.696b3eb8.chunk.js.map",
+    "index.html": "/markdownpreviewer/index.html",
+    "precache-manifest.90c9ef540d14eb35faebc51db04979de.js": "/markdownpreviewer/precache-manifest.90c9ef540d14eb35faebc51db04979de.js",
+    "service-worker.js": "/markdownpreviewer/service-worker.js",
+    "static/css/2.00839ece.chunk.css.map": "/markdownpreviewer/static/css/2.00839ece.chunk.css.map",
+    "static/css/main.af8306ae.chunk.css.map": "/markdownpreviewer/static/css/main.af8306ae.chunk.css.map",
+    "static/js/2.696b3eb8.chunk.js.LICENSE.txt": "/markdownpreviewer/static/js/2.696b3eb8.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/markdownpreviewer/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deb89438.js",
+    "static/css/2.00839ece.chunk.css",
+    "static/js/2.696b3eb8.chunk.js",
+    "static/css/main.af8306ae.chunk.css",
+    "static/js/main.d2f18f43.chunk.js"
+  ]
+}
